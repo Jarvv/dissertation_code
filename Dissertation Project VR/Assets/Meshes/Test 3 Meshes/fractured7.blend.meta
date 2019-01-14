@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 7276d446358f8dc408f780b49b6b77a2
+timeCreated: 1521312156
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BotMesh
+    100002: //RootNode
+    100004: TopMesh
+    100006: BotMesh_MeshPart0
+    100008: BotMesh_MeshPart1
+    100010: BotMesh_MeshPart10
+    100012: BotMesh_MeshPart2
+    100014: BotMesh_MeshPart3
+    100016: BotMesh_MeshPart4
+    100018: BotMesh_MeshPart5
+    100020: BotMesh_MeshPart6
+    100022: BotMesh_MeshPart7
+    100024: BotMesh_MeshPart8
+    100026: BotMesh_MeshPart9
+    100028: TopMesh_MeshPart0
+    100030: TopMesh_MeshPart1
+    100032: TopMesh_MeshPart10
+    100034: TopMesh_MeshPart2
+    100036: TopMesh_MeshPart3
+    100038: TopMesh_MeshPart4
+    100040: TopMesh_MeshPart5
+    100042: TopMesh_MeshPart6
+    100044: TopMesh_MeshPart7
+    100046: TopMesh_MeshPart8
+    100048: TopMesh_MeshPart9
+    400000: BotMesh
+    400002: //RootNode
+    400004: TopMesh
+    400006: BotMesh_MeshPart0
+    400008: BotMesh_MeshPart1
+    400010: BotMesh_MeshPart10
+    400012: BotMesh_MeshPart2
+    400014: BotMesh_MeshPart3
+    400016: BotMesh_MeshPart4
+    400018: BotMesh_MeshPart5
+    400020: BotMesh_MeshPart6
+    400022: BotMesh_MeshPart7
+    400024: BotMesh_MeshPart8
+    400026: BotMesh_MeshPart9
+    400028: TopMesh_MeshPart0
+    400030: TopMesh_MeshPart1
+    400032: TopMesh_MeshPart10
+    400034: TopMesh_MeshPart2
+    400036: TopMesh_MeshPart3
+    400038: TopMesh_MeshPart4
+    400040: TopMesh_MeshPart5
+    400042: TopMesh_MeshPart6
+    400044: TopMesh_MeshPart7
+    400046: TopMesh_MeshPart8
+    400048: TopMesh_MeshPart9
+    2300000: BotMesh
+    2300002: TopMesh
+    2300004: BotMesh_MeshPart0
+    2300006: BotMesh_MeshPart1
+    2300008: BotMesh_MeshPart10
+    2300010: BotMesh_MeshPart2
+    2300012: BotMesh_MeshPart3
+    2300014: BotMesh_MeshPart4
+    2300016: BotMesh_MeshPart5
+    2300018: BotMesh_MeshPart6
+    2300020: BotMesh_MeshPart7
+    2300022: BotMesh_MeshPart8
+    2300024: BotMesh_MeshPart9
+    2300026: TopMesh_MeshPart0
+    2300028: TopMesh_MeshPart1
+    2300030: TopMesh_MeshPart10
+    2300032: TopMesh_MeshPart2
+    2300034: TopMesh_MeshPart3
+    2300036: TopMesh_MeshPart4
+    2300038: TopMesh_MeshPart5
+    2300040: TopMesh_MeshPart6
+    2300042: TopMesh_MeshPart7
+    2300044: TopMesh_MeshPart8
+    2300046: TopMesh_MeshPart9
+    3300000: BotMesh
+    3300002: TopMesh
+    3300004: BotMesh_MeshPart0
+    3300006: BotMesh_MeshPart1
+    3300008: BotMesh_MeshPart10
+    3300010: BotMesh_MeshPart2
+    3300012: BotMesh_MeshPart3
+    3300014: BotMesh_MeshPart4
+    3300016: BotMesh_MeshPart5
+    3300018: BotMesh_MeshPart6
+    3300020: BotMesh_MeshPart7
+    3300022: BotMesh_MeshPart8
+    3300024: BotMesh_MeshPart9
+    3300026: TopMesh_MeshPart0
+    3300028: TopMesh_MeshPart1
+    3300030: TopMesh_MeshPart10
+    3300032: TopMesh_MeshPart2
+    3300034: TopMesh_MeshPart3
+    3300036: TopMesh_MeshPart4
+    3300038: TopMesh_MeshPart5
+    3300040: TopMesh_MeshPart6
+    3300042: TopMesh_MeshPart7
+    3300044: TopMesh_MeshPart8
+    3300046: TopMesh_MeshPart9
+    4300000: TopMesh
+    4300002: BotMesh
+    4300004: TopMesh_MeshPart0
+    4300006: TopMesh_MeshPart1
+    4300008: TopMesh_MeshPart2
+    4300010: TopMesh_MeshPart3
+    4300012: TopMesh_MeshPart4
+    4300014: TopMesh_MeshPart5
+    4300016: TopMesh_MeshPart6
+    4300018: TopMesh_MeshPart7
+    4300020: TopMesh_MeshPart8
+    4300022: TopMesh_MeshPart9
+    4300024: TopMesh_MeshPart10
+    4300026: BotMesh_MeshPart0
+    4300028: BotMesh_MeshPart1
+    4300030: BotMesh_MeshPart2
+    4300032: BotMesh_MeshPart3
+    4300034: BotMesh_MeshPart4
+    4300036: BotMesh_MeshPart5
+    4300038: BotMesh_MeshPart6
+    4300040: BotMesh_MeshPart7
+    4300042: BotMesh_MeshPart8
+    4300044: BotMesh_MeshPart9
+    4300046: BotMesh_MeshPart10
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 2be7aed02b01c434ba93387cbec3554d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 0a28958e1f5de2745a7aa617d23a0306, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
