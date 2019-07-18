@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Leap.Unity;
 
-public class VertexSelction : MonoBehaviour {
+public class VertexSelection : MonoBehaviour {
 
 	public GameObject indexFinger, rightHand, fireCone, fragment01, fragment02;
 	public float radius;
